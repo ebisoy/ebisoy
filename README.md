@@ -2,7 +2,7 @@
 
 🎓 Computer Science student @Pamantasan ng Lungsod ng Maynila (graduating this Oct 2025)  
 💻 Aspiring Web & Software Developer  
-🌱 Currently learning:Java 
+🌱 Currently learning: Java :>
 
 
 
