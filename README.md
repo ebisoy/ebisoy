@@ -3,7 +3,7 @@
 🎓 Computer Science student @Pamantasan ng Lungsod ng Maynila (graduating this Oct 2025)  
 💻 Aspiring Web & Software Developer  
 🌱 Currently learning:Java 
-📫 Reach me at: erikabisoy24@gmail.com
+
 
 
 ## 🌐 Socials:
