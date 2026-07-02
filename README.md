@@ -1,7 +1,7 @@
 👋 Hi, I’m Erika!  
 
-🎓 Computer Science student @Pamantasan ng Lungsod ng Maynila (graduating this Oct 2025)  
-💻 Aspiring Web & Software Developer  
+🎓 Computer Science graduate @Pamantasan ng Lungsod ng Maynila 
+💻 Junior Application Developer 
 🌱 Currently learning: Java :>
 
 
